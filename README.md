@@ -9,7 +9,8 @@ This project is a chatbot designed to assist users with "How-to" questions relat
 - Predefined knowledge base for CDP-related queries
 - Easy-to-use interface
 
-## Installation
+### Output
+![Image](https://github.com/user-attachments/assets/b6a12598-5549-4733-ba58-88cec3242faf)
 
 ### Prerequisites
 Ensure you have the following installed:
