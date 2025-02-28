@@ -17,6 +17,9 @@ Ensure you have the following installed:
 - pip (Python package manager)
 - Flask (for the web interface)
 - Required Python libraries (listed in `requirements.txt`)
+  
+###output
+![Chatbot Output](subfolder/Screenshot%20(3).png)
 
 ### Steps
 1. Clone the repository:
