@@ -46,12 +46,5 @@ Ensure you have the following installed:
 - **Machine Learning**: Training models for understanding queries
 - **HTML, CSS, JavaScript**: Frontend UI
 
-## Contributing
-Feel free to contribute by submitting pull requests. Follow standard GitHub contribution practices.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any queries, contact [your email or GitHub profile].
 
