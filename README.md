@@ -19,7 +19,7 @@ Ensure you have the following installed:
 - Required Python libraries (listed in `requirements.txt`)
   
 ###output
-![Chatbot Output](subfolder/Screenshot%20(3).png)
+(subfolder/Screenshot%20(3).png)
 
 ### Steps
 1. Clone the repository:
