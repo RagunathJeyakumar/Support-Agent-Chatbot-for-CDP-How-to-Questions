@@ -18,8 +18,10 @@ Ensure you have the following installed:
 - Flask (for the web interface)
 - Required Python libraries (listed in `requirements.txt`)
   
-###output
-![Chatbot Screenshot](screenshot(3).png)
+
+## Demo
+Here’s the chatbot in action:
+![Chatbot Screenshot](images/screenshot(3).png)
 
 ### Steps
 1. Clone the repository:
