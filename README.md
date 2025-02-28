@@ -19,9 +19,7 @@ Ensure you have the following installed:
 - Required Python libraries (listed in `requirements.txt`)
   
 
-## Demo
-Here’s the chatbot in action:
-![Chatbot Screenshot](images/screenshot(3).png)
+![Screenshot of the Chatbot Interface](https://github.com/RagunathJeyakumar/Support-Agent-Chatbot-for-CDP-How-to-Questions/blob/main/screenimage(3).png)
 
 ### Steps
 1. Clone the repository:
